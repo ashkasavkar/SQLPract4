@@ -7,5 +7,5 @@ CREATE TABLE students (
 );
 INSERT INTO students (name, marks) VALUES
 ('Ashlesha', 85),
-('Pranay', 90),
+('Viru', 90),
 ('Mithila', 76);
